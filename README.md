@@ -14,7 +14,7 @@
  * Playable Pacman Game using Java and JavaFX
 
 
-### Disclaimer: Sprites used in here are not our own, all credits go to their respective owners. ![Sprite Resource](https://www.spriters-resource.com/arcade/pacman/)
+### Disclaimer: Sprites used in here are not our own, all credits go to their respective owners. [Sprite Resource](https://www.spriters-resource.com/arcade/pacman/ "Sprite Resource")
  
 
 ## Screenshots
