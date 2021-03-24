@@ -1,0 +1,25 @@
+.button{
+    -fx-background-color: 
+        linear-gradient(#ffd65b, #e68400),
+        linear-gradient(#ffef84, #f2ba44),
+        linear-gradient(#ffea6a, #efaa22),
+        linear-gradient(#ffe657 0%, #f8c202 50%, #eea10b 100%),
+        linear-gradient(from 0% 0% to 15% 50%, rgba(255,255,255,0.9), rgba(255,255,255,0));
+    -fx-background-radius: 30;
+    -fx-background-insets: 0,1,2,3,0;
+    -fx-text-fill: #654b00;
+    -fx-font-weight: bold;
+    -fx-font-size: 15px;
+    -fx-padding: 8 18 8 18;
+    
+ 	/*CSS Button color gradients referenced to Jasper Potts of fxeperience.com */
+}
+
+.button:hover{
+	-fx-background-color: rgb(255,175, 70);
+}
+
+.button:active{
+	-fx-background-color: rgb(255,175, 70);
+	-fx-box-shadow: rgb(0,0,0);
+}
